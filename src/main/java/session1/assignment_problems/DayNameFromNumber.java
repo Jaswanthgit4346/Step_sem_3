@@ -1,4 +1,4 @@
-package main.java.session1.assigment_problems;
+package main.java.session1.assignment_problems;
 
 import java.util.Scanner;
 

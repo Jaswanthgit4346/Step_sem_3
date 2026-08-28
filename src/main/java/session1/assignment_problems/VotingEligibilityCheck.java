@@ -1,6 +1,4 @@
-
-package main.java.session1.assigment_problems.level1;
-
+package main.java.session1.assignment_problems;
 import java.util.Scanner;
 
 public class VotingEligibilityCheck {
