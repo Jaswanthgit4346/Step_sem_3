@@ -1,4 +1,4 @@
-package main.java.session1.class_problems;
+package session1.class_problems;
 
 import java.util.Scanner;
 
